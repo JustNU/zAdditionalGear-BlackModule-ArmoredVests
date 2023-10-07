@@ -1,0 +1,26 @@
+{
+	"Armored Vests": {
+		"AddGearBlack_6B13": true,
+		"AddGearBlack_6B13M_Killa": true,
+		"AddGearBlack_6B23_1": true,
+		"AddGearBlack_6B23_2": true,
+		"AddGearBlack_Defender2": true,
+		"AddGearBlack_Defender2_Light": true,
+		"AddGearBlack_GEN4_Full": true,
+		"AddGearBlack_GEN4_Assault": true,
+		"AddGearBlack_GEN4_Mobility": true,
+		"AddGearBlack_GEN4_Light": true,
+		"AddGearBlack_Gzhel": true,
+		"AddGearBlack_Redut_Full": true,
+		"AddGearBlack_Redut_Mobility": true,
+		"AddGearBlack_Redut_Assault": true,
+		"AddGearBlack_Redut_Light": true,
+		"AddGearBlack_Thor_ICBA_Full": true,
+		"AddGearBlack_THOR_ICBA_Assault": true,
+		"AddGearBlack_THOR_ICBA_Mobility": true,
+		"AddGearBlack_THOR_ICBA_Light": true,
+		"AddGearBlack_Trooper_USEC": true,
+		"AddGearBlack_Trooper": true,
+		"AddGearBlack_UntarVest": true
+	}
+}

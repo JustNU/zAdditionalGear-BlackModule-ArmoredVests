@@ -1,0 +1,112 @@
+{
+	"AddGearBlack_6B13M_Killa": {
+		"BaseItemID": "5c0e541586f7747fa54205c9",
+		"BundlePath": "AddGearBlack/ArmoredVests/6b13_killa.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_6B13": {
+		"BaseItemID": "5c0e53c886f7747fa54205c7",
+		"BundlePath": "AddGearBlack/ArmoredVests/6b13.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Gzhel": {
+		"BaseItemID": "5ab8e79e86f7742d8b372e78",
+		"BundlePath": "AddGearBlack/ArmoredVests/gzhel.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Defender2": {
+		"BaseItemID": "5e9dacf986f774054d6b89f4",
+		"BundlePath": "AddGearBlack/ArmoredVests/defender2.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Redut_Mobility": {
+		"BaseItemID": "5ca2151486f774244a3b8d30",
+		"BundlePath": "AddGearBlack/ArmoredVests/redut_m.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Redut_Full": {
+		"BaseItemID": "5ca21c6986f77479963115a7",
+		"BundlePath": "AddGearBlack/ArmoredVests/redut_t5.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Trooper_USEC": {
+		"BaseItemID": "5c0e655586f774045612eeb2",
+		"BundlePath": "AddGearBlack/ArmoredVests/trooper.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Trooper": {
+		"BaseItemID": "5c0e655586f774045612eeb2",
+		"BundlePath": "AddGearBlack/ArmoredVests/trooper_clean.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_6B23_1": {
+		"BaseItemID": "5c0e5bab86f77461f55ed1f3",
+		"BundlePath": "AddGearBlack/ArmoredVests/6b23.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_6B23_2": {
+		"BaseItemID": "5c0e57ba86f7747fa141986d",
+		"BundlePath": "AddGearBlack/ArmoredVests/6b23.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_GEN4_Full": {
+		"BaseItemID": "5b44cd8b86f774503d30cba2",
+		"BundlePath": "AddGearBlack/ArmoredVests/gen4_full.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_GEN4_Assault": {
+		"BaseItemID": "5b44cf1486f77431723e3d05",
+		"BundlePath": "AddGearBlack/ArmoredVests/gen4_assault.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_GEN4_Mobility": {
+		"BaseItemID": "5b44d0de86f774503d30cba8",
+		"BundlePath": "AddGearBlack/ArmoredVests/gen4_mobility.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_UntarVest": {
+		"BaseItemID": "5ab8e4ed86f7742d8e50c7fa",
+		"BundlePath": "AddGearBlack/ArmoredVests/untarvest.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Thor_ICBA_Full": {
+		"BaseItemID": "60a283193cb70855c43a381d",
+		"BundlePath": "AddGearBlack/ArmoredVests/thor_icba_full.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_GEN4_Light": {
+		"BaseItemID": "5b44d0de86f774503d30cba8",
+		"BundlePath": "AddGearBlack/ArmoredVests/gen4_light.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Defender2_Light": {
+		"BaseItemID": "5e9dacf986f774054d6b89f4",
+		"BundlePath": "AddGearBlack/ArmoredVests/defender2_light.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Redut_Light": {
+		"BaseItemID": "5ca2151486f774244a3b8d30",
+		"BundlePath": "AddGearBlack/ArmoredVests/redut_light.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_Redut_Assault": {
+		"BaseItemID": "5ca21c6986f77479963115a7",
+		"BundlePath": "AddGearBlack/ArmoredVests/redut_assault.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_THOR_ICBA_Light": {
+		"BaseItemID": "60a283193cb70855c43a381d",
+		"BundlePath": "AddGearBlack/ArmoredVests/thor_icba_light.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_THOR_ICBA_Assault": {
+		"BaseItemID": "60a283193cb70855c43a381d",
+		"BundlePath": "AddGearBlack/ArmoredVests/thor_icba_assault.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_THOR_ICBA_Mobility": {
+		"BaseItemID": "60a283193cb70855c43a381d",
+		"BundlePath": "AddGearBlack/ArmoredVests/thor_icba_mobility.bundle",
+		"LootWeigthMult": 0.25
+	}
+}

@@ -1,0 +1,193 @@
+{
+    "manifest": [
+		{
+            "key": "AddGearBlack/ArmoredVests/6b13_textures.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/6b13.bundle",
+            "dependencyKeys": [
+				"assets/content/characters/character/vest/ar_6b13_mesh",
+				"AddGearBlack/ArmoredVests/6b13_textures.bundle",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/6b13_killa.bundle",
+            "dependencyKeys": [
+				"assets/content/characters/character/vest/ar_6b13_mesh",
+				"AddGearBlack/ArmoredVests/6b13_textures.bundle",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/6b23.bundle",
+            "dependencyKeys": [
+				"assets/content/characters/character/vest/ar_6b23_mesh",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps",
+				"assets/content/items/equipment/armor_6b23/item_equipment_armor_6b23_gloss_nrm"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/defender2.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/defender2_light.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_full.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"AddGearBlack/ArmoredVests/gen4_textures.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_assault.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"AddGearBlack/ArmoredVests/gen4_textures.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_mobility.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"AddGearBlack/ArmoredVests/gen4_textures.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_light.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"AddGearBlack/ArmoredVests/gen4_textures.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gzhel.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/redut_m.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/redut_light.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/redut_assault.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/redut_t5.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/thor_icba_full.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/thor_icba_assault.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/thor_icba_mobility.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/thor_icba_light.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/trooper.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/trooper_clean.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/untarvest.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+        }
+    ]
+}
