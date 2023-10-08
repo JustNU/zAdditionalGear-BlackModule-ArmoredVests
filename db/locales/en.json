@@ -1,67 +1,112 @@
 {
-	"AddGearTan_GEN4_Full": {
-        "Name": "IOTV Gen4 armor (full protection, Tan)",
+	"AddGearBlack_6B13": {
+        "Name": "6B13 assault armor (Black)",
+		"ShortName": "6B13 Black",
+		"Description": "The main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. Black color version."
+    },
+	"AddGearBlack_6B13M_Killa": {
+        "Name": "6B13 M modified assault armor (Killa, Black)",
+		"ShortName": "6B13 M Black",
+		"Description": "A 6B13 armored vest that has had its ceramic armored plates replaced with lightweight polyethylene plates. The protection class is higher and the weight is lower. This particular set of armor has been personally modified by Killa."
+    },
+	"AddGearBlack_6B23_1": {
+        "Name": "6B23-1 body armor (Black)",
+		"ShortName": "6B23-1 Black",
+		"Description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
+    },
+	"AddGearBlack_6B23_2": {
+        "Name": "6B23-2 body armor (Black)",
+		"ShortName": "6B23-2 Black",
+		"Description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
+    },
+	"AddGearBlack_Defender2": {
+        "Name": "FORT Defender-2 body armor (Black)",
+		"ShortName": "Defender-2",
+		"Description": "The FORT OK \"Defender-2\" operational kit is a modification of the popular body armor FORT \"Defender\" designed for both VIP and for employees of operational combat units. The kit uses the maximum capabilities of the modular principle of building armor based on steel plates."
+    },
+	"AddGearBlack_Defender2_Light": {
+        "Name": "FORT Defender-2 body armor (Light, Black)",
+		"ShortName": "Defender-2 Light",
+		"Description": "The FORT OK \"Defender-2\" operational kit is a modification of the popular body armor FORT \"Defender\" designed for both VIP and for employees of operational combat units. The kit uses the maximum capabilities of the modular principle of building armor based on steel plates."
+    },
+	"AddGearBlack_GEN4_Full": {
+        "Name": "IOTV Gen4 armor (full protection, Black)",
 		"ShortName": "Gen4 Full",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Full protection kit."
     },
-	"AddGearTan_GEN4_Assault": {
-        "Name": "IOTV Gen4 armor (assault kit, Tan)",
+	"AddGearBlack_GEN4_Assault": {
+        "Name": "IOTV Gen4 armor (assault kit, Black)",
 		"ShortName": "Gen4 Assault",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased ergonomics assault kit."
     },
-	"AddGearTan_GEN4_Mobility": {
-        "Name": "IOTV Gen4 armor (high mobility kit, Tan)",
+	"AddGearBlack_GEN4_Mobility": {
+        "Name": "IOTV Gen4 armor (high mobility kit, Black)",
 		"ShortName": "Gen4 HMK",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased mobility and comfort kit."
     },
-	"AddGearTan_6B13": {
-        "Name": "6B13 assault armor (Tan)",
-		"ShortName": "6B13",
-		"Description": "The main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. Tan version."
-    },
-	"AddGearTan_Hexgrid": {
-        "Name": "5.11 Tactical Hexgrid plate carrier (Tan)",
-		"ShortName": "Hexgrid",
-		"Description": "The Hexgrid plate carrier with smooth ergonomic access that allows comfortable movement, intended for use with chest rigs. Manufactured by 5.11 Tactical."
-    },
-	"AddGearTan_UntarVest": {
-        "Name": "Light Military Flak Jacket (Tan)",
-		"ShortName": "Flak",
-		"Description": "A class III body armor used by PMCs and security forces all around the world."
-    },
-	"AddGearTan_Trooper_USEC": {
-        "Name": "HighCom Trooper TFO body armor (USEC, Tan)",
-		"ShortName": "Trooper",
-		"Description": "A plate armor vest by HighCom, popular among USEC PMCs. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Tan version."
-    },
-	"AddGearTan_Trooper": {
-        "Name": "HighCom Trooper TFO body armor (Tan)",
-		"ShortName": "Trooper",
-		"Description": "A plate armor vest by HighCom. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Tan version."
-    },
-	"AddGearTan_PACA": {
-        "Name": "PACA Soft Armor (Tan)",
-		"ShortName": "PACA",
-		"Description": "A light but durable and reliable body armor protecting only the vital areas, fitted with class 2 (Russian GOST) armor plates."
-    },
-	"AddGearTan_6B2": {
-		"Name": "6B2 body armor (Tan)",
-		"ShortName": "6B2",
-		"Description": "An old army body armor from Afghanistan war times, mainly designed to protect against pistol bullets and explosion fragments. It fulfilled its mission, but was soon replaced by bulletproof vests with differentiated protection."
-    },
-	"AddGearTan_GEN4_Light": {
-        "Name": "IOTV Gen4 armor (light kit, Tan)",
+	"AddGearBlack_GEN4_Light": {
+        "Name": "IOTV Gen4 armor (light kit, Black)",
 		"ShortName": "Gen4 Light",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Light kit."
     },
-	"AddGearTan_ANA_M2_Armor": {
-        "Name": "ANA Tactical M2 armor (Tan)",
-		"ShortName": "ANA M2 armor",
-		"Description": "A tactical rig with additional class 4 (Russian GOST) armor plates. The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain. Plate carrier variant. Manufactured by ANA Tactical."
+	"AddGearBlack_Gzhel": {
+        "Name": "BNTI Gzhel-K body armor (Black)",
+		"ShortName": "Gzhel-K",
+		"Description": "The Gzhel assault bulletproof vest is designed for assault units of the Ministry of Internal Affairs and other law enforcement agencies. A special variant of Gzhel-K armor is equipped with ceramic armored panels based on corundum (Russian GOST class 5 protection)."
     },
-	"AddGearTan_TacTec_Armor": {
-        "Name": "5.11 Tactical TacTec armor (Tan)",
-		"ShortName": "TacTec armor",
-		"Description": "A plate carrier with armor plates made of polyethylene (Russian GOST class 5 protection). Manufactured by 5.11 Tactical."
+	"AddGearBlack_Redut_Full": {
+        "Name": "FORT Redut-T5 body armor (Black)",
+		"ShortName": "Redut Full",
+		"Description": "The FORT \"Redut T5\" armor vest is a reinforced version of Redut armor series, designed with account of the many years of experience in counter-terrorism operations in the Russian Federation."
+	},
+	"AddGearBlack_Redut_Assault": {
+        "Name": "FORT Redut-M body armor (Assault, Black)",
+		"ShortName": "Redut Assault",
+		"Description": "\"Redut-M\" is a modified version of the well-proven Redut body armor, which is in service of special units of the FSB. The vest is based on advanced technologies in the field of individual armor. Due to the optimized form of armor elements and the outer cover with a special damping-ventilation system, the Redut M armored vest has excellent functional qualities, which facilitates active actions, including those associated with the use of vehicles and in confined spaces. Assault kit."
+    },
+	"AddGearBlack_Redut_Mobility": {
+        "Name": "FORT Redut-M body armor (Mobility, Black)",
+		"ShortName": "Redut Mobility",
+		"Description": "\"Redut-M\" is a modified version of the well-proven Redut body armor, which is in service of special units of the FSB. The vest is based on advanced technologies in the field of individual armor. Due to the optimized form of armor elements and the outer cover with a special damping-ventilation system, the Redut M armored vest has excellent functional qualities, which facilitates active actions, including those associated with the use of vehicles and in confined spaces."
+	},
+	"AddGearBlack_Redut_Light": {
+        "Name": "FORT Redut-M body armor (Light, Black)",
+		"ShortName": "Redut Light",
+		"Description": "\"Redut-M\" is a modified version of the well-proven Redut body armor, which is in service of special units of the FSB. The vest is based on advanced technologies in the field of individual armor. Due to the optimized form of armor elements and the outer cover with a special damping-ventilation system, the Redut M armored vest has excellent functional qualities, which facilitates active actions, including those associated with the use of vehicles and in confined spaces. Base kit with no additional protection."
+    },
+	"AddGearBlack_Thor_ICBA_Full": {
+        "Name": "NFM THOR Integrated Carrier body armor (full protection, Black)",
+		"ShortName": "THOR IC Full",
+		"Description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM."
+	},
+	"AddGearBlack_THOR_ICBA_Assault": {
+        "Name": "NFM THOR Integrated Carrier body armor (assault kit, Black)",
+		"ShortName": "THOR IC Assault",
+		"Description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM. Increased ergonomics assault kit."
+	},
+	"AddGearBlack_THOR_ICBA_Mobility": {
+        "Name": "NFM THOR Integrated Carrier body armor (high mobility kit, Black)",
+		"ShortName": "THOR IC HMK",
+		"Description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM. Increased mobility and comfort kit."
+	},
+	"AddGearBlack_THOR_ICBA_Light": {
+        "Name": "NFM THOR Integrated Carrier body armor (light kit, Black)",
+		"ShortName": "THOR IC Light",
+		"Description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM. Barebones kit with no extra protection."
+	},
+	"AddGearBlack_Trooper_USEC": {
+        "Name": "HighCom Trooper TFO body armor (USEC, Black)",
+		"ShortName": "Trooper USEC",
+		"Description": "A plate armor vest by HighCom, popular among USEC PMCs. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Black version."
+    },
+	"AddGearBlack_Trooper": {
+        "Name": "HighCom Trooper TFO body armor (Black)",
+		"ShortName": "Trooper",
+		"Description": "A plate armor vest by HighCom. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Black version."
+    },
+	"AddGearBlack_UntarVest": {
+        "Name": "Light Military Flak Jacket (Black)",
+		"ShortName": "Flak Jacket",
+		"Description": "A class III body armor used by PMCs and security forces all around the world."
     }
 }

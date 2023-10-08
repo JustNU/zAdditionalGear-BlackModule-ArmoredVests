@@ -1,5 +1,40 @@
 {
+	"5c0e541586f7747fa54205c9": {
+        "Name": "6B13 M modified assault armor (Killa, Tan)",
+		"ShortName": "6B13 M Tan"
+	},
+	"5c0e57ba86f7747fa141986d": {
+		"Description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
+    },
+	"5e9dacf986f774054d6b89f4": {
+        "Name": "FORT Defender-2 body armor (Olive Drab)"
+	},
 	"5b44cd8b86f774503d30cba2": {
         "Name": "IOTV Gen4 body armor (full protection, Multicam)"
+	},
+	"5b44cf1486f77431723e3d05": {
+        "Name": "IOTV Gen4 body armor (assault kit, Multicam)"
+	},
+	"5b44d0de86f774503d30cba8": {
+        "Name": "IOTV Gen4 body armor (high mobility kit, Multicam)"
+	},
+	"5ab8e79e86f7742d8b372e78": {
+        "Name": "BNTI Gzhel-K body armor (White)"
+	},
+	"5ca2151486f774244a3b8d30": {
+        "Name": "FORT Redut-M body armor (Mobility, Olive Green)",
+		"ShortName": "Redut Mobility"
+	},
+	"5ca21c6986f77479963115a7": {
+        "Name": "FORT Redut-T5 body armor (Woodland)",
+		"ShortName": "Redut Full"
+	},
+	"60a283193cb70855c43a381d": {
+        "Name": "NFM THOR Integrated Carrier body armor (full protection, tan)",
+		"ShortName": "THOR IC Full"
+	},
+	"5c0e655586f774045612eeb2": {
+        "Name": "HighCom Trooper TFO body armor (USEC, Multicam)",
+		"ShortName": "Trooper USEC",
 	}
 }
