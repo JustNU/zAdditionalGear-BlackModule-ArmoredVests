@@ -30,22 +30,22 @@
 		"Description": "The FORT OK \"Defender-2\" operational kit is a modification of the popular body armor FORT \"Defender\" designed for both VIP and for employees of operational combat units. The kit uses the maximum capabilities of the modular principle of building armor based on steel plates."
     },
 	"AddGearBlack_GEN4_Full": {
-        "Name": "IOTV Gen4 armor (full protection, Black)",
+        "Name": "IOTV Gen4 body armor (full protection, Black)",
 		"ShortName": "Gen4 Full",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Full protection kit."
     },
 	"AddGearBlack_GEN4_Assault": {
-        "Name": "IOTV Gen4 armor (assault kit, Black)",
+        "Name": "IOTV Gen4 body armor (assault kit, Black)",
 		"ShortName": "Gen4 Assault",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased ergonomics assault kit."
     },
 	"AddGearBlack_GEN4_Mobility": {
-        "Name": "IOTV Gen4 armor (high mobility kit, Black)",
+        "Name": "IOTV Gen4 body armor (high mobility kit, Black)",
 		"ShortName": "Gen4 HMK",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased mobility and comfort kit."
     },
 	"AddGearBlack_GEN4_Light": {
-        "Name": "IOTV Gen4 armor (light kit, Black)",
+        "Name": "IOTV Gen4 body armor (light kit, Black)",
 		"ShortName": "Gen4 Light",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Light kit."
     },
