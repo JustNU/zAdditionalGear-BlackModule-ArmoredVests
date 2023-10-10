@@ -80,11 +80,28 @@ class Mod
 		// Modify quests
 		if (config.EnableQuestChanges) {
 			const armoredVests = [
-			
-			];
-				
-			const punisher5Gear = [
-			
+				["AddGearBlack_6B13"],
+				["AddGearBlack_6B13M_Killa"],
+				["AddGearBlack_6B23_1"],
+				["AddGearBlack_6B23_2"],
+				["AddGearBlack_Defender2"],
+				["AddGearBlack_Defender2_Light"],
+				["AddGearBlack_GEN4_Full"],
+				["AddGearBlack_GEN4_Assault"],
+				["AddGearBlack_GEN4_Mobility"],
+				["AddGearBlack_GEN4_Light"],
+				["AddGearBlack_Gzhel"],
+				["AddGearBlack_Redut_Full"],
+				["AddGearBlack_Redut_Assault"],
+				["AddGearBlack_Redut_Mobility"],
+				["AddGearBlack_Redut_Light"],
+				["AddGearBlack_Thor_ICBA_Full"],
+				["AddGearBlack_THOR_ICBA_Assault"],
+				["AddGearBlack_THOR_ICBA_Mobility"],
+				["AddGearBlack_THOR_ICBA_Light"],
+				["AddGearBlack_Trooper_USEC"],
+				["AddGearBlack_Trooper"],
+				["AddGearBlack_UntarVest"]
 			];
 			
 			// The survivalist path. Unprotected, but dangerous
@@ -94,16 +111,6 @@ class Mod
 				database.templates.quests["5d25aed386f77442734d25d2"].conditions.AvailableForFinish[0]._props.counter.conditions[1]._props.equipmentExclusive = [
 					...jsonUtil.clone(unprotectedButDangerousGear),
 					...armoredVests
-				];
-			}
-			
-			// The Punisher - Part 5
-			if (database.templates.quests["59ca29fb86f77445ab465c87"]) {
-				const thePunisher5Gear = database.templates.quests["59ca29fb86f77445ab465c87"].conditions.AvailableForFinish[6]._props.counter.conditions[1]._props.equipmentInclusive;
-				
-				database.templates.quests["59ca29fb86f77445ab465c87"].conditions.AvailableForFinish[6]._props.counter.conditions[1]._props.equipmentInclusive = [
-					...jsonUtil.clone(thePunisher5Gear),
-					...punisher5Gear
 				];
 			}
 			
