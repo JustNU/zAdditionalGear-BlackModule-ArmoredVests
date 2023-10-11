@@ -105,8 +105,8 @@
 		"Description": "A plate armor vest by HighCom. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Black version."
     },
 	"AddGearBlack_UntarVest": {
-        "Name": "Light Military Flak Jacket (Black)",
-		"ShortName": "Flak Jacket",
+        "Name": "Light Military Flak Vest (Black)",
+		"ShortName": "Flak Vest",
 		"Description": "A class III body armor used by PMCs and security forces all around the world."
     }
 }
