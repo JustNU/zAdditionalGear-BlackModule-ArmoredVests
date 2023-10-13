@@ -108,5 +108,10 @@
         "Name": "Light Military Flak Vest (Black)",
 		"ShortName": "Flak Vest",
 		"Description": "A class III body armor used by PMCs and security forces all around the world."
+    },
+	"AddGearBlack_6B2": {
+		"Name": "6B2 body armor (Black)",
+		"ShortName": "6B2",
+		"Description": "An old army body armor from Afghanistan war times, mainly designed to protect against pistol bullets and explosion fragments. It fulfilled its mission, but was soon replaced by bulletproof vests with differentiated protection."
     }
 }

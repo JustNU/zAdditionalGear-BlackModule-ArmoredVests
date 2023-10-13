@@ -101,7 +101,8 @@ class Mod
 				["AddGearBlack_THOR_ICBA_Light"],
 				["AddGearBlack_Trooper_USEC"],
 				["AddGearBlack_Trooper"],
-				["AddGearBlack_UntarVest"]
+				["AddGearBlack_UntarVest"],
+				["AddGearBlack_6B2"]
 			];
 			
 			// The survivalist path. Unprotected, but dangerous

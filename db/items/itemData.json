@@ -108,5 +108,10 @@
 		"BaseItemID": "60a283193cb70855c43a381d",
 		"BundlePath": "AddGearBlack/ArmoredVests/thor_icba_mobility.bundle",
 		"LootWeigthMult": 0.25
+	},
+	"AddGearBlack_6B2": {
+		"BaseItemID": "5df8a2ca86f7740bfe6df777",
+		"BundlePath": "AddGearBlack/ArmoredVests/6B2.bundle",
+		"LootWeigthMult": 0.25
 	}
 }

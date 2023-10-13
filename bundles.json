@@ -188,6 +188,14 @@
 				"cubemaps",
 				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/6B2.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
         }
     ]
 }
