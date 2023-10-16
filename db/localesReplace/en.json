@@ -36,5 +36,8 @@
 	"5c0e655586f774045612eeb2": {
         "Name": "HighCom Trooper TFO body armor (USEC, Multicam)",
 		"ShortName": "Trooper USEC"
+	},
+	"5b44cad286f77402a54ae7e5": {
+		"ShortName": "TacTec Rig"
 	}
 }

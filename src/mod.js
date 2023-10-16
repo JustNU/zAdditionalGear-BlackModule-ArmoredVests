@@ -26,7 +26,8 @@ class Mod
 			"AddGearBlack_Redut_Assault",
 			"AddGearBlack_THOR_ICBA_Light",
 			"AddGearBlack_THOR_ICBA_Assault",
-			"AddGearBlack_THOR_ICBA_Mobility"
+			"AddGearBlack_THOR_ICBA_Mobility",
+			"AddGearBlack_TacTec_Armor"
 		];
 		
 		//add retextures
@@ -102,7 +103,8 @@ class Mod
 				["AddGearBlack_Trooper_USEC"],
 				["AddGearBlack_Trooper"],
 				["AddGearBlack_UntarVest"],
-				["AddGearBlack_6B2"]
+				["AddGearBlack_6B2"],
+				["AddGearBlack_TacTec_Armor"]
 			];
 			
 			// The survivalist path. Unprotected, but dangerous
